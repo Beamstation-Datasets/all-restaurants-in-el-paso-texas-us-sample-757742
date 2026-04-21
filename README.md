@@ -1,6 +1,6 @@
 # All Restaurants in El Paso, Texas, US
 
-> Free BeamStation sample export with 223 rows and masked direct-contact fields.
+> Free BeamStation sample export with 204 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `757742` |
 | Location | El Paso |
 | Category | Restaurants |
-| Full dataset size | 2,238 records |
-| Free sample size | 223 records (9.96%) |
-| Last export | 2026-04-14T16:22:47.396913+00:00 |
+| Full dataset size | 2,041 records |
+| Free sample size | 204 records (10.0%) |
+| Last export | 2026-04-21T17:49:46.468642+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-el-paso-texas-us-sample-757742/releases/download/sample-latest/beamstation_757742_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
